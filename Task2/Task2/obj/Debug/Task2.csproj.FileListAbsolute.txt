@@ -1,1 +1,6 @@
 C:\Users\Nomat_An\Documents\GitHub\task-2\Task2\Task2\bin\Debug\Task2.exe.config
+C:\Users\Nomat_An\Documents\GitHub\task-2\Task2\Task2\bin\Debug\Task2.exe
+C:\Users\Nomat_An\Documents\GitHub\task-2\Task2\Task2\bin\Debug\Task2.pdb
+C:\Users\Nomat_An\Documents\GitHub\task-2\Task2\Task2\obj\Debug\Task2.csprojResolveAssemblyReference.cache
+C:\Users\Nomat_An\Documents\GitHub\task-2\Task2\Task2\obj\Debug\Task2.exe
+C:\Users\Nomat_An\Documents\GitHub\task-2\Task2\Task2\obj\Debug\Task2.pdb
