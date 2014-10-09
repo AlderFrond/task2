@@ -24,7 +24,7 @@ namespace Task2
 
             if (Weight > str * WeightByStr)
             {
-                Console.WriteLine("перегруз");
+                Console.WriteLine("Скорость передвижения: < 100%");
             }
             else if (Weight < str * WeightByStr / 2)
             {
@@ -32,10 +32,10 @@ namespace Task2
             }
             else
             {
-                Console.WriteLine("норма");
+                Console.WriteLine("Скорость передвижения: 100%");
             }
                 
-                Console.ReadKey();
+            Console.ReadKey();
         }
     }
 }
