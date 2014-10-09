@@ -17,7 +17,7 @@ namespace Task2
             string strStr = Console.ReadLine();
             int str = int.Parse(strStr);
 
-            
+
             Console.Write("Введите вес вещей: ");
             String strWeight = Console.ReadLine();
             int Weight = int.Parse(strWeight);
@@ -26,11 +26,16 @@ namespace Task2
             {
                 Console.WriteLine("перегруз");
             }
+            else if (Weight < str * WeightByStr / 2)
+            {
+                Console.WriteLine("Скорость персонажа: 150%");
+            }
             else
             {
                 Console.WriteLine("норма");
             }
-            Console.ReadKey();
+                
+                Console.ReadKey();
         }
     }
 }
