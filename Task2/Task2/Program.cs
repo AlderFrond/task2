@@ -24,11 +24,11 @@ namespace Task2
 
             if (Weight > str * WeightByStr)
             {
-                Console.WriteLine("норма");
+                Console.WriteLine("перегруз");
             }
             else
             {
-                Console.WriteLine("перегруз");
+                Console.WriteLine("норма");
             }
             Console.ReadKey();
         }
